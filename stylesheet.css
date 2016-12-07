@@ -1,0 +1,128 @@
+
+ body{
+  background-color:black;
+  font-family:arial black;
+ }
+
+ img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+ }
+
+ p{
+ 	font-size:25px;
+background-color:rgb(64, 64, 64);
+color:white;
+position:;
+padding:0;
+margin-left:0px;
+ }
+
+ h2{
+ 	text-align:center;
+ 	background-color:rgb(64, 64, 64);
+    color:white;
+    padding:0;
+    margin:0;
+    line-height:2;
+ } 
+
+  	nav li{
+   list-style:none;
+   display:inline-block;
+   padding:0;
+  	}
+
+  	body{
+  		margin:0;
+  		padding:0;
+  		font-family:gill sans;
+  	}
+  	.hatscom{
+  		text-align:center;
+  	}
+
+  	h1{
+  		color:white;
+  		font-size:75px;
+  		margin:0;
+  		padding:0;
+  	}
+
+  #chubby{
+  	margin:0;
+  		background-color:black;
+  		width:100%;
+  		height:100px;
+  	}
+  	nav ul{
+margin:0;
+padding:0;
+}
+
+nav li{
+list-style:none;
+display:inline-block;
+padding:2px;
+border-left:0px solid black;
+padding-left:75px;
+padding-right:100px;
+padding-bottom:0;
+}
+
+nav{
+	background-color:grey;
+	text-align:center;
+}
+
+nav a{
+text-decoration:none;
+color:black;
+font-size:35px;
+}
+
+nav li:hover{
+background-color:silver;
+}
+
+.wiki{
+  float:bottom;
+}
+
+ul{
+  float:bottom;
+  font-color:white;
+}
+
+.sb{
+  width:75%;
+}
+
+.th{
+  width:75%;
+}
+
+.bean{
+  width:75%;
+}
+
+.edge{
+  width:75%;
+}
+
+.bhat{
+  width:75%;
+}
+
+.hatz{
+  width:100%;
+}
+
+.old{
+  width:60%;
+}
+
+.me{
+  width:100%;
+}
